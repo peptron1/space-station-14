@@ -135,7 +135,6 @@
   parent: FoodContainerBase
   name: donut box
   id: FoodContainerDonutBox
-  description: Mmm. Donuts.
   components:
   - type: FoodContainer
     capacity: 6
@@ -156,7 +155,6 @@
   parent: FoodContainerBase
   name: egg box (shut)
   id: FoodContainerEggBoxShut
-  description: A carton for containing eggs. It's closed right now.
   components:
   - type: FoodContainer
     capacity: 1
@@ -172,7 +170,6 @@
   parent: FoodContainerBase
   name: egg box
   id: FoodContainerEggBox
-  description: A carton for containing eggs.
   components:
   - type: FoodContainer
     capacity: 12
@@ -245,7 +242,6 @@
   parent: FoodContainerBase
   name: monkey cube box
   id: FoodContainerMonkeyCubeBox
-  description: Drymate brand monkey cubes. Just add water!
   components:
   - type: FoodContainer
     prototypes:

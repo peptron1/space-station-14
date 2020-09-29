@@ -2,7 +2,7 @@
   name: handcuff box
   parent: BoxBase
   id: BoxHandcuff
-  description: A box full of handcuffs.
+  description:
   components:
   - type: StorageFill
     contents:
@@ -21,7 +21,7 @@
   name: flashbang box
   parent: BoxBase
   id: BoxFlashbang
-  description: <B>WARNING; These devices are extremely dangerous and can cause blindness or deafness in repeated use.</B>
+  description:
   components:
   - type: StorageFill
     contents:
